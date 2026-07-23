@@ -78,7 +78,9 @@ A correlation check across the three RFM dimensions shows a moderate positive re
 # Visual / Dashboard Preview
 Final Power BI dashboard, showing top-line KPIs, churn and repeat-customer behavior, the country revenue table, and the four-part RFM segment breakdown
 
+## Customer Behavior RFM Dashboard
 
+![Customer Behavior RFM Dashboard](Customer%20Behavior%20RFM%20Dashboard.png)
 
 
 
