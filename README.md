@@ -82,11 +82,12 @@ Final Power BI dashboard, showing top-line KPIs, churn and repeat-customer behav
 
 ![Customer Behavior RFM Dashboard](Customer%20Behavior%20RFM%20Dashboard.png)
 
+## Before/After Data Cleaning 
+##### Before Cleaning
+![Excerpt of Uncleaned Dataset](Excerpt%20of%20Uncleaned%20Dataset.png)
 
-
-
-
-
+##### After Cleaning
+![Excerpt of Cleaned Dataset](Excerpt%20of%20Cleaned%20Dataset.png)
 
 
 
